@@ -1,1 +1,1 @@
-Analzying semi-structured data set using MongoDB
+Handling and analzying semi-structured data set using MongoDB
